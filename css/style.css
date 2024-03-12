@@ -1,0 +1,133 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+.background-1 {
+  background-image: url(/Home-images/01.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  max-width: 100%;
+}
+.background-1 .container .header-home .onebitcode-logo {
+  width: 190px;
+}
+.background-1 .container .header-home .nav-link {
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+}
+.background-1 .container .header-home .navbar-button {
+  border: 1px solid #8C8C8C;
+}
+.background-1 .container .div-content-home .h5 {
+  font-size: 24px;
+}
+.background-1 .container .div-content-home .button-saiba-mais {
+  font-size: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+.background-1 .container .div-content-home .div-arrow-down .gif-arrow-down {
+  width: 100px;
+}
+
+.background-2 {
+  background-image: url(/Home-images/03.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.background-2 .container .header-home .onebitcode-logo {
+  width: 190px;
+}
+.background-2 .container .div-content-home-2 .h5 {
+  font-size: 24px;
+}
+.background-2 .container .div-content-home-2 .button-saiba-mais {
+  font-size: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+.background-2 .container .div-content-home-2 .div-arrow-down .gif-arrow-down {
+  width: 100px;
+}
+
+.background-3 {
+  background-image: url(/Home-images/02.gif);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.background-3 .container {
+  padding-top: 60px;
+}
+.background-3 .container .header-home .onebitcode-logo {
+  width: 190px;
+}
+.background-3 .container .div-content-home-3 .h5 {
+  font-size: 24px;
+}
+.background-3 .container .div-content-home-3 .button-saiba-mais {
+  font-size: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+.background-3 .container .div-content-home-3 .div-arrow-down .gif-arrow-down {
+  width: 100px;
+}
+
+.background-4 {
+  background-image: url(/Home-images/04.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.background-4 .container {
+  padding-top: 60px;
+}
+.background-4 .container .header-home .onebitcode-logo {
+  width: 190px;
+}
+.background-4 .container .div-content-home-4 .h5 {
+  font-size: 24px;
+}
+.background-4 .container .div-content-home-4 .button-saiba-mais {
+  font-size: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+.background-4 .container .div-content-home-4 .div-arrow-down .gif-arrow-down {
+  width: 100px;
+}
+
+.footer-home {
+  background-color: black;
+  font-size: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 17px;
+}
+.footer-home .name-footer {
+  color: #4E4C4C;
+}
+.footer-home .social-network-footer {
+  text-decoration: none;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

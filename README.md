@@ -1,0 +1,1 @@
+Criação de layout de website com o tema SpaceX. Será utilizado html, css, javascript, bootstrap, SASS e AOS.
