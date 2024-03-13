@@ -1,0 +1,420 @@
+.background-1-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/01.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    max-width: 100%;
+
+    .container{
+
+        .header-home{
+            padding-bottom: 120px;
+
+            .onebitcode-logo{
+            width: 190px;
+            }
+
+            .nav-link{
+                color: white;
+                font-size: 11px;
+                font-weight: bold;
+            }
+
+            .navbar-button{
+                border: 1px solid #8C8C8C;
+            }
+        }
+
+        .div-content-falcon{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+
+            .title-falcon{
+                font-size: 75px;
+                font-weight: bold;
+            }
+        }
+    }
+}
+
+.background-2-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/02.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    .numbers{
+        flex-wrap: wrap;
+
+        .big-numbers{
+            font-size: 100px;
+        }
+
+        .totals{
+            font-size: 20px;
+            text-align: center;
+        }
+
+    }
+
+    .text{
+        font-size: 19px;
+        text-align: justify;
+    }
+}
+
+.background-3-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/03.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    .falcon9{
+        font-size: 18px;
+    }
+
+    .visao-geral{
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .table-row{
+
+        .table-second-col{
+            text-align: end;
+        }
+    }
+}
+
+.background-4-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/04.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    .falcon9{
+        font-size: 18px;
+    }
+
+    .primeiro-estagio{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .text{
+        font-size: 19px;
+        text-align: justify;
+    }
+}
+
+.background-5-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/05.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    .falcon9{
+        font-size: 18px;
+    }
+
+    .segundo-estagio{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .text{
+        font-size: 19px;
+        text-align: justify;
+    }
+    .table-row{
+
+        .table-second-col{
+            text-align: end;
+        }
+    }
+}
+
+.background-6-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/06.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    .falcon9{
+        font-size: 18px;
+    }
+
+    .interestadual{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .text{
+        font-size: 19px;
+        text-align: justify;
+    }
+    .aletas-de-grade{
+        font-size: 20px;
+    }
+}
+
+.background-7-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/07.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    .falcon9{
+        font-size: 18px;
+    }
+
+    .carga-util{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .text{
+        font-size: 19px;
+        text-align: justify;
+    }
+}
+
+.background-8-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/08.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    .falcon9{
+        font-size: 18px;
+    }
+
+    .merlin{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .text{
+        font-size: 19px;
+        text-align: justify;
+    }
+}
+
+.background-9-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/09.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+
+    .div-content-falcon-9{
+        align-items: center;
+
+        .container{
+            align-items: end;
+            position: relative;
+            justify-content: center;
+            align-items: center;
+        }
+        .text{
+            font-size: 17px;
+            background-color: black;
+            border-radius: 5px;
+            margin-bottom: 65px;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+        }
+
+    }
+}
+
+.background-10-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/10.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+
+    .div-content-falcon-10{
+        align-items: center;
+
+        .container{
+            align-items: end;
+            position: relative;
+            justify-content: center;
+            align-items: center;
+        }
+        .text{
+            font-size: 17px;
+            background-color: black;
+            border-radius: 5px;
+            margin-bottom: 65px;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+        }
+
+    }
+}
+
+.background-11-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/11.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+
+    .div-content-falcon-11{
+        align-items: center;
+
+        .container{
+            align-items: end;
+            position: relative;
+            justify-content: center;
+            align-items: center;
+        }
+        .text{
+            font-size: 17px;
+            background-color: black;
+            border-radius: 5px;
+            margin-bottom: 65px;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+        }
+
+    }
+}
+
+.background-12-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/12.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+
+    .div-content-falcon-12{
+        align-items: center;
+
+        .container{
+            align-items: end;
+            position: relative;
+            justify-content: center;
+            align-items: center;
+        }
+        .text{
+            font-size: 17px;
+            background-color: black;
+            border-radius: 5px;
+            margin-bottom: 65px;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+        }
+
+    }
+}
+
+.background-13-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/13.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+
+    .div-content-falcon-13{
+        align-items: center;
+
+        .container{
+            align-items: end;
+            position: relative;
+            justify-content: center;
+            align-items: center;
+        }
+        .text{
+            font-size: 17px;
+            background-color: black;
+            border-radius: 5px;
+            margin-bottom: 65px;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+        }
+
+    }
+}
+
+.background-14-falcon{
+    background-image: url(/Pages/Falcon9/Falcon-Images/14.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+
+    .div-content-falcon-14{
+        align-items: center;
+
+        .container{
+            align-items: end;
+            position: relative;
+            justify-content: center;
+            align-items: center;
+        }
+        .text{
+            font-size: 17px;
+            background-color: black;
+            border-radius: 5px;
+            margin-bottom: 65px;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+        }
+
+    }
+}
+
+.background-15-falcon{
+    background-color: black;
+    .div-content-falcon-15{
+        align-items: center;
+        .link-email{
+            text-decoration: none;
+            color: gray;
+        }
+
+        .buttons{
+            gap: 19px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+
+            .button-1{
+                border-width: 3px;
+            }
+            .button-2{
+                border-width: 3px;
+            }
+        }
+
+        .text{
+            text-align: center;
+        }
+    }
+}
+
+.footer-falcon{
+    background-color: black;
+    font-size: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 17px;
+
+    .name-footer{
+        color: #4E4C4C;
+    }
+
+    .social-network-footer{
+        text-decoration: none;
+        color: white;
+    }
+    
+}
