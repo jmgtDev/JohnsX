@@ -23,7 +23,10 @@
   border: 1px solid #8C8C8C;
 }
 .background-1 .container .div-content-home .h5 {
-  font-size: 24px;
+  font-size: 39px;
+}
+.background-1 .container .div-content-home .h6 {
+  font-size: 22px;
 }
 .background-1 .container .div-content-home .button-saiba-mais {
   font-size: 13px;
@@ -47,7 +50,7 @@
   width: 190px;
 }
 .background-2 .container .div-content-home-2 .h5 {
-  font-size: 24px;
+  font-size: 35px;
 }
 .background-2 .container .div-content-home-2 .button-saiba-mais {
   font-size: 13px;
@@ -74,7 +77,10 @@
   width: 190px;
 }
 .background-3 .container .div-content-home-3 .h5 {
-  font-size: 24px;
+  font-size: 35px;
+}
+.background-3 .container .div-content-home-3 .h6 {
+  font-size: 21px;
 }
 .background-3 .container .div-content-home-3 .button-saiba-mais {
   font-size: 13px;
@@ -101,7 +107,7 @@
   width: 190px;
 }
 .background-4 .container .div-content-home-4 .h5 {
-  font-size: 24px;
+  font-size: 27px;
 }
 .background-4 .container .div-content-home-4 .button-saiba-mais {
   font-size: 13px;
@@ -130,6 +136,83 @@
   color: white;
 }
 
+@media (min-width: 530px) {
+  .background-1 .container .div-content-home .h5 {
+    font-size: 55px;
+  }
+  .background-1 .container .div-content-home .h6 {
+    font-size: 30px;
+  }
+  .background-1 .container .div-content-home .button-saiba-mais {
+    font-size: 17px;
+  }
+  .background-2 .container .div-content-home-2 .h5 {
+    font-size: 51px;
+  }
+  .background-2 .container .div-content-home-2 .h6 {
+    font-size: 23px;
+  }
+  .background-2 .container .div-content-home-2 .button-saiba-mais {
+    font-size: 17px;
+  }
+  .background-3 .container .div-content-home-3 .h5 {
+    font-size: 51px;
+  }
+  .background-3 .container .div-content-home-3 .h6 {
+    font-size: 29px;
+  }
+  .background-3 .container .div-content-home-3 .button-saiba-mais {
+    font-size: 17px;
+  }
+  .background-4 .container .div-content-home-4 .h5 {
+    font-size: 32px;
+  }
+  .background-4 .container .div-content-home-4 .button-saiba-mais {
+    font-size: 17px;
+  }
+}
+@media (min-width: 992px) {
+  .background-1 .container .header-home .nav-link {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+  }
+}
+@media (min-width: 1024px) {
+  .background-1 .container .div-content-home .h5 {
+    font-size: 100px;
+  }
+  .background-1 .container .div-content-home .h6 {
+    font-size: 49px;
+  }
+  .background-1 .container .div-content-home .button-saiba-mais {
+    font-size: 29px;
+  }
+  .background-2 .container .div-content-home-2 .h5 {
+    font-size: 95px;
+  }
+  .background-2 .container .div-content-home-2 .h6 {
+    font-size: 43px;
+  }
+  .background-2 .container .div-content-home-2 .button-saiba-mais {
+    font-size: 29px;
+  }
+  .background-3 .container .div-content-home-3 .h5 {
+    font-size: 95px;
+  }
+  .background-3 .container .div-content-home-3 .h6 {
+    font-size: 43px;
+  }
+  .background-3 .container .div-content-home-3 .button-saiba-mais {
+    font-size: 29px;
+  }
+  .background-4 .container .div-content-home-4 .h5 {
+    font-size: 60px;
+  }
+  .background-4 .container .div-content-home-4 .button-saiba-mais {
+    font-size: 29px;
+  }
+}
 .background-1-falcon {
   background-image: url(/Pages/Falcon9/Falcon-Images/01.jpg);
   background-size: cover;

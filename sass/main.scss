@@ -32,7 +32,11 @@
         .div-content-home{
 
             .h5{
-                font-size: 24px;
+                font-size: 39px;
+            }
+
+            .h6{
+                font-size: 22px;
             }
 
             .button-saiba-mais{
@@ -72,7 +76,7 @@
         .div-content-home-2{
 
             .h5{
-                font-size: 24px;
+                font-size: 35px;
             }
 
             .button-saiba-mais{
@@ -113,7 +117,11 @@
         .div-content-home-3{
 
             .h5{
-                font-size: 24px;
+                font-size: 35px;
+            }
+
+            .h6{
+                font-size: 21px;
             }
 
             .button-saiba-mais{
@@ -155,7 +163,7 @@
         .div-content-home-4{
 
             .h5{
-                font-size: 24px;
+                font-size: 27px;
             }
 
             .button-saiba-mais{
@@ -194,6 +202,190 @@
     }
     
 }
+
+@media(min-width: 530px){
+    .background-1{
+
+        .container{
+    
+            .div-content-home{
+    
+                .h5{
+                    font-size: 55px;
+                }
+    
+                .h6{
+                    font-size: 30px;
+                }
+    
+                .button-saiba-mais{
+                    font-size: 17px;
+                }
+            }
+        }
+    }
+
+    .background-2{
+    
+        .container{
+    
+            .div-content-home-2{
+    
+                .h5{
+                    font-size: 51px;
+                }
+
+                .h6{
+                    font-size: 23px;
+                }
+    
+                .button-saiba-mais{
+                    font-size: 17px;
+                }
+            }
+        }
+    }
+
+    .background-3{
+    
+        .container{
+    
+            .div-content-home-3{
+    
+                .h5{
+                    font-size: 51px;
+                }
+
+                .h6{
+                    font-size: 29px;
+                }
+    
+                .button-saiba-mais{
+                    font-size: 17px;
+                }
+            }
+        }
+    }
+
+    .background-4{
+    
+        .container{
+    
+            .div-content-home-4{
+    
+                .h5{
+                    font-size: 32px;
+                }
+    
+                .button-saiba-mais{
+                    font-size: 17px;
+                }
+            }
+        }
+    }
+}
+
+@media(min-width: 992px){
+    .background-1{
+    
+        .container{
+    
+            .header-home{
+    
+                .nav-link{
+                    color: white;
+                    font-size: 18px;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
+
+
+@media(min-width: 1224px){
+    .background-1{
+
+        .container{
+    
+            .div-content-home{
+    
+                .h5{
+                    font-size: 100px;
+                }
+    
+                .h6{
+                    font-size: 49px;
+                }
+    
+                .button-saiba-mais{
+                    font-size: 29px;
+                }
+            }
+        }
+    }
+
+    .background-2{
+    
+        .container{
+    
+            .div-content-home-2{
+    
+                .h5{
+                    font-size: 95px;
+                }
+
+                .h6{
+                    font-size: 43px;
+                }
+    
+                .button-saiba-mais{
+                    font-size: 29px;
+                }
+            }
+        }
+    }
+
+    .background-3{
+    
+        .container{
+    
+            .div-content-home-3{
+    
+                .h5{
+                    font-size: 95px;
+                }
+
+                .h6{
+                    font-size: 43px;
+                }
+    
+                .button-saiba-mais{
+                    font-size: 29px;
+                }
+            }
+        }
+    }
+
+    .background-4{
+    
+        .container{
+    
+            .div-content-home-4{
+    
+            .h5{
+                font-size: 60px;
+            }
+
+            .button-saiba-mais{
+                font-size: 29px;
+            }
+            }
+        }
+    }
+}
+
+    
 
 @import "./falcon9.scss";
 
