@@ -488,4 +488,189 @@
   color: white;
 }
 
+.background-1-hsf {
+  background-image: url(/Pages/Hsf/Hsf-images/01.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  max-width: 100%;
+}
+.background-1-hsf .container .header-home .onebitcode-logo {
+  width: 190px;
+}
+.background-1-hsf .container .header-home .nav-link {
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+}
+.background-1-hsf .container .header-home .navbar-button {
+  border: 1px solid #8C8C8C;
+}
+.background-1-hsf .container .div-content-hsf {
+  margin-top: 100px;
+  align-items: center;
+}
+.background-1-hsf .container .div-content-hsf .title-hsf {
+  font-size: 50px;
+  text-align: center;
+}
+.background-1-hsf .container .div-content-hsf .h5 {
+  font-size: 27px;
+  text-align: center;
+}
+.background-1-hsf .container .div-content-hsf .button-saiba-mais {
+  font-size: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+.background-1-hsf .container .div-content-hsf .div-arrow-down .gif-arrow-down {
+  width: 100px;
+}
+
+.text-1-div {
+  background-color: black;
+}
+.text-1-div .text-1 {
+  font-size: 20px;
+  text-align: center;
+  max-width: 100%;
+  margin-bottom: 0px;
+}
+.text-1-div .email-link {
+  text-decoration: none;
+  color: gray;
+}
+
+.background-2-hsf {
+  background-image: url(/Pages/Hsf/Hsf-images/02.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.background-2-hsf .container .div-content-hsf-2 .mission {
+  font-size: 18px;
+}
+.background-2-hsf .container .div-content-hsf-2 .orbita {
+  font-size: 50px;
+  font-weight: bold;
+}
+.background-2-hsf .container .div-content-hsf-2 .button-explorar {
+  font-size: 17px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+
+.background-3-hsf {
+  background-image: url(/Pages/Hsf/Hsf-images/03.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.background-3-hsf .container .div-content-hsf-3 .mission {
+  font-size: 18px;
+}
+.background-3-hsf .container .div-content-hsf-3 .space-station {
+  font-size: 50px;
+  font-weight: bold;
+}
+.background-3-hsf .container .div-content-hsf-3 .button-explorar {
+  font-size: 17px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+
+.background-4-hsf {
+  background-image: url(/Pages/Hsf/Hsf-images/04.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.background-4-hsf .container .div-content-hsf-4 .mission {
+  font-size: 18px;
+}
+.background-4-hsf .container .div-content-hsf-4 .lua {
+  font-size: 50px;
+  font-weight: bold;
+}
+.background-4-hsf .container .div-content-hsf-4 .button-explorar {
+  font-size: 17px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+
+.background-5-hsf {
+  background-image: url(/Pages/Hsf/Hsf-images/05.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.background-5-hsf .container .div-content-hsf-5 .mission {
+  font-size: 18px;
+}
+.background-5-hsf .container .div-content-hsf-5 .mars {
+  font-size: 50px;
+  font-weight: bold;
+}
+.background-5-hsf .container .div-content-hsf-5 .button-explorar {
+  font-size: 17px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-width: 2px;
+}
+
+.background-6-hsf {
+  background-color: black;
+}
+.background-6-hsf .div-content-hsf-6 {
+  align-items: center;
+}
+.background-6-hsf .div-content-hsf-6 .link-email {
+  text-decoration: none;
+  color: gray;
+}
+.background-6-hsf .div-content-hsf-6 .buttons {
+  gap: 19px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.background-6-hsf .div-content-hsf-6 .buttons .button-1 {
+  border-width: 3px;
+}
+.background-6-hsf .div-content-hsf-6 .buttons .button-2 {
+  border-width: 3px;
+}
+.background-6-hsf .div-content-hsf-6 .text {
+  text-align: center;
+}
+
+.footer-hsf {
+  background-color: black;
+  font-size: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 17px;
+}
+.footer-hsf .name-footer {
+  color: #4E4C4C;
+}
+.footer-hsf .social-network-footer {
+  text-decoration: none;
+  color: white;
+}
+
 /*# sourceMappingURL=style.css.map */
